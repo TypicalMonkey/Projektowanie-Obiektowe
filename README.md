@@ -28,3 +28,12 @@ Demo: demos/videos.zip
 Kod: Go
 Demo: demos/3.zip
 
+
+**Zadanie 5** Wzorce behawioralne
+
+:white_check_mark:4.0 wymaganie 3.5 [Link do commita](https://github.com/TypicalMonkey/Projektowanie-Obiektowe/commit/846d08f025f519d70cfaaef1d564ba35b13e2e60)
+
+Kod: zadanie_5
+Demo: demos/4.zip
+
+
