@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import PropTypes from 'prop-types';
 import axios from 'axios';
 import './App.css';
 
@@ -55,6 +56,11 @@ const Products = ({ cart, setCart }) => {
   );
 };
 
+Products.propTypes = {
+  cart: PropTypes.object.isRequired, 
+  setCart: PropTypes.func.isRequired, 
+};
+
 const Cart = ({ cart, setCart, userBalance, setUserBalance, products }) => {
   const [message, setMessage] = useState('');
 
@@ -92,6 +98,14 @@ const Cart = ({ cart, setCart, userBalance, setUserBalance, products }) => {
       {message && <p>{message}</p>}
     </div>
   );
+};
+
+Cart.propTypes = {
+  cart: PropTypes.object.isRequired,
+  setCart: PropTypes.func.isRequired, 
+  userBalance: PropTypes.number.isRequired, 
+  setUserBalance: PropTypes.func.isRequired,
+  products: PropTypes.array.isRequired, 
 };
 
 const App = () => {
