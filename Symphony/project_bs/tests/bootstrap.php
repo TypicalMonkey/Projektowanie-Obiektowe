@@ -1,6 +1,7 @@
 <?php
 
 use Symfony\Component\Dotenv\Dotenv;
+use function file_exists;
 
 require_once dirname(__DIR__).'/vendor/autoload.php';
 
