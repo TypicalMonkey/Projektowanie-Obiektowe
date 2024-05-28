@@ -45,3 +45,11 @@ Kod: zadanie_6
 Demo: demos/3.5.zip
 
 
+**Zadanie 9** Testy
+
+:white_check_mark: 3.5 wymaganie 3.0 [Link do commita](https://github.com/TypicalMonkey/Projektowanie-Obiektowe/commit/acb1f7c6e09c82f63eb0de9650638425fff8a52f)
+
+Kod: zadanie_9
+Demo: demos/35.zip
+
+
