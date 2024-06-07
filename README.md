@@ -36,13 +36,20 @@ Demo: demos/3.zip
 Kod: zadanie_5
 Demo: demos/4.zip
 
-**Zadanie 6**Sonar
+**Zadanie 6** Sonar
 
 :white_check_mark:3.5 wymaganie 3.0 [Link do commita](https://github.com/TypicalMonkey/Projektowanie-Obiektowe/commit/6367f1b215495246d9191c8362bb6225ebd9189e)
   [Link do folderu](https://github.com/TypicalMonkey/Projektowanie-Obiektowe/tree/main/zadanie_6_po)
 
 Kod: zadanie_6
 Demo: demos/3.5.zip
+
+**Zadanie 7** Antywzorce
+
+:white_check_mark:3.0 wymaganie 3.0 [Link do commita](https://github.com/TypicalMonkey/Projektowanie-Obiektowe/commit/25e53268529bad09eaa851a2f51b9b9d8ab6fd32)
+
+Kod: zad7
+Demo: demos/3.zip
 
 
 **Zadanie 9** Testy
