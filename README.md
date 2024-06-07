@@ -51,6 +51,13 @@ Demo: demos/3.5.zip
 Kod: zad7
 Demo: demos/3.zip
 
+**Zadanie 8** MobileApp
+
+:white_check_mark:3.0 wymaganie 3.0 [Link do commita](https://github.com/TypicalMonkey/Projektowanie-Obiektowe/commit/e183e9d135920c5ea5cff048306f7b47d9b2f1b8)
+
+Kod: kotlinapp
+Demo: demos/3.zip
+
 
 **Zadanie 9** Testy
 
